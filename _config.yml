@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Kehoe"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Matthew Kehoe"
 description              : &description "Applied Mathematician and Research Scientist"
@@ -86,7 +86,7 @@ author:
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Oni3VskAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=Oni3VskAAAAJ"
   email            : "mkehoe@mtu.edu"
   researchgate     : "https://www.researchgate.net/profile/Matthew-Kehoe-2"
   uri              :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-5763-0079"
   pinterest        :
   soundcloud       :
-  mathstackexchange: "https://math.stackexchange.com/users/258202/axion004"
+  stackexchange    : # "https://math.stackexchange.com/users/258202/axion004"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
