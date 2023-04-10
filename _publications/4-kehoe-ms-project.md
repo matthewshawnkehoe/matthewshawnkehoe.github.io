@@ -1,7 +1,7 @@
 ---
 title: "Computational methods for the Riemann zeta function"
 collection: publications
-permalink: /publication/kehoe-ms-project
+permalink: /publication/4-kehoe-ms-project
 excerpt: 'The purpose of this project is to explore different computational methods of the Riemann Zeta function. The zeta function is formally defined as $\zeta(s)$ and the Riemann Hypothesis states that all non-trivial zeroes of $\zeta(s)$ lie inside the critical line where $\Re(s) = 1/2$. It is important to note that by definition all non-trivial zeroes are bounded to the critical strip of ${0}\leq{\Re}(s)\leq{1}$. Modern research and advanced algorithms have not been able to disprove the hypothesis. Recent research has produced what is known as the Odlyzko--–Sch$\ddot{o}$nhage algorithm. The algorithm has been used to verify the Riemann Hypothesis up to $10^{13}$ zeroes. To investigate properties of the Zeta function, I have developed several software programs.
 
 The first program calculates $\zeta(s)$ for any value of s provided $s\in\mathbb{R}$. This program uses a rather straightforward approach for calculating all values of $\zeta(s)$. The main difficulty deals with implementing a recursive method which will handle all values calculated between ${-2}\leq{\Re}(s)\leq{2}$. I used an alternative method known as the Cauchy--–Schl$\ddot{o}$milch transformation. Further details behind the mathematics involved inside the transformation are shown inside the appendix.
