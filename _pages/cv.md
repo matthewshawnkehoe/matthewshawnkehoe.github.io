@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF version of my CV is available here.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, Oakland University, 2010
+* M.S. in Computational Mathematics, University of Michigan-Dearborn, 2015
+* Ph.D in Applied Mathematics, University of Illinois at Chicago, 2022
 
 Work experience
 ======
