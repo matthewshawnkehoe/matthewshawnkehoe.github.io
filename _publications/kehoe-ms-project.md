@@ -33,5 +33,5 @@ The third program is variation of the Euler-Maclaurin Summation formula. This is
 
 While writing computer programs is enjoyable, it is important to point out an important proof made by G.H. Hardy in 1915. This is known as Hardy's Theorem and states that an infinite amount of zeroes lie inside the critical line where $\Re(s) = 1/2$. Considering we have already found $10^{13}$ zeroes, it is highly unlikely modern computers will disprove the hypothesis. We will likely need to change the approach by which $\zeta(s)$ is evaluated.
 
-Recommended citation: M. Kehoe. (2015). "Computational methods for the Riemann zeta function." MS Project. http://matthewshawnkehoe.github.io/files/kehoe_ms_project.pdf
+Recommended citation: M. Kehoe (2015). "Computational methods for the Riemann zeta function." MS Project. http://matthewshawnkehoe.github.io/files/kehoe_ms_project.pdf
 
