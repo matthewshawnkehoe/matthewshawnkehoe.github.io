@@ -1,13 +1,18 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/HOPSAWEAnal
-excerpt: 'The scattering of linear waves by periodic structures is a crucial phenomena in many branches of applied physics and engineering. In this paper we establish rigorous analytic results necessary for the proper numerical analysis of a class of High--Order Perturbation of Surfaces/Asymptotic Waveform Evaluation (HOPS/AWE) methods for
-numerically simulating scattering returns from periodic diffraction gratings. More specifically, we prove a theorem on existence and uniqueness of solutions to a system of partial differential equations which model the interaction of linear waves with a periodic two--layer structure. Furthermore, we establish joint analyticity of these solutions with respect to both geometry and frequency perturbations. This result provides hypotheses under which a rigorous numerical analysis could be conducted on our recently developed HOPS/AWE algorithm.'
-#date: 2010-10-01
-venue: 'SIAM Journal on Mathematical Analysis'
-paperurl: 'http://academicpages.github.io/files/HOPSAWEAnal.pdf'
-citation: 'M. Kehoe and D. P. Nicholls. (2023). &quot;Joint Geometry/Frequency Analyticity of Fields Scattered by Periodic Layered Media.&quot; <i>SIAM Journal on Mathematical Analysis</i>.'
+title: "Black-boxing the user: internet protocol over xylophone players (IPoXP)"
+category: articles
+permalink: /articles/2012-05-02-altchi-ipoxp/ 
+excerpt: 'We introduce IP over Xylophone Players (IPoXP), a novel Internet protocol between two computers using xylophone-based Arduino interfaces'
+date: 2012-05-02
+venue: 'Proceedings of CHI (alt.CHI)'
+citation: 'Geiger, R. Stuart, Yoon J. Jeong, and Emily Manders (2012). “Black-Boxing the User: Internet Protocol over Xylophone Players.” In Proceedings of the 2012 ACM Conference on Human-Computer Interaction (alt.CHI 2012). New York: ACM Digital Library. http://stuartgeiger.com/ipoxp.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download PDF here](http://stuartgeiger.com/ipoxp.pdf)
+
+[Watch a YouTube video of IPoXP in action](https://www.youtube.com/watch?v=qCT7SisWh38)
+
+Abstract: We introduce IP over Xylophone Players (IPoXP), a novel Internet protocol between two computers using xylophone-based Arduino interfaces. In our implementation, human operators are situated within the lowest layer of the network, transmitting data between computers by striking designated keys. We discuss how IPoXP inverts the traditional mode of human-computer interaction, with a computer using the human as an interface to communicate with another computer.
+
+Recommended citation: Geiger, R. Stuart, Yoon J. Jeong, and Emily Manders (2012). “Black-Boxing the User: Internet Protocol over Xylophone Players.” In Proceedings of the 2012 ACM Conference on Human-Computer Interaction (alt.CHI 2012). New York: ACM Digital Library. http://stuartgeiger.com/ipoxp.pdf
+ 
