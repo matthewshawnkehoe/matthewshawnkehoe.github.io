@@ -12,7 +12,7 @@ Forthcoming research will focus on extending the proof of analyticity to additio
 date: 2022-07-22
 venue: 'UIC Electronic Thesis and Dissertation (ETD) System'
 paperurl: 'http://matthewshawnkehoe.github.io/files/thesis.pdf'
-citation: 'M Kehoe. (2022). &quot;Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media.&quot; <i>PhD Thesis</i>.'
+#citation: 'M Kehoe. (2022). &quot;Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media.&quot; <i>PhD Thesis</i>.'
 ---
 
 [Download PDF here](http://matthewshawnkehoe.github.io/files/thesis.pdf)
@@ -25,5 +25,5 @@ periodically corrugated grating structure as a function of its illumination freq
 
 Forthcoming research will focus on extending the proof of analyticity to additional parameters relevant to the geometry of the structure, increasing the complexity of the structure through generalizing our results to any finite number of layered interfaces, implementing parallel programming techniques to handle multilayered surfaces, and reducing the computational cost of our HOPS/AWE algorithm. The analysis of multilayered periodic structures with numerous perturbation parameters will be an area of substantial interest for practitioners in the electromagnetic and engineering communities.
 
-Recommended citation: M. Kehoe. (2022). "Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media." <i>PhD Thesis</i>.
+Recommended citation: M. Kehoe. (2022). "Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media." PhD Thesis.
 
