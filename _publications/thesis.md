@@ -1,0 +1,23 @@
+---
+title: "Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media"
+collection: publications
+permalink: /publication/thesis
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022-07-22
+venue: 'UIC Electronic Thesis and Dissertation (ETD) System'
+paperurl: 'http://matthewshawnkehoe.github.io/files/thesis.pdf'
+citation: 'M Kehoe. (2022). &quot;Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media.&quot; <i>PhD Thesis</i>.'
+---
+
+[Download PDF here](http://matthewshawnkehoe.github.io/files/thesis.pdf)
+
+Abstract: This thesis presents rigorous analytical and numerical results necessary for the numerical analysis of a class of High--Order Perturbation of Surfaces/Asymptotic Waveform Evaluation (HOPS/AWE) methods in a laterally periodic two--layer structure. Numerical simulations of scattering returns from periodic diffraction gratings are crucial to a large number of applications in physics and engineering, and the work presented here examines methods for numerically modeling scattering returns from such structures.  The strategies presented in this thesis represent the results of our efforts towards the dual goals of 1) Proving a theorem on the existence and uniqueness of solutions to a system of partial differential equations which model the interaction of linear waves in periodic layered media and 2) Developing a numerical algorithm to record scattered energy through a novel interfacial method that is perturbative in nature.
+
+The first of our goals is established through classical methods based on the theory of Sobolev spaces and regular perturbation theory. The proof involves several rigorous analyses, and we formulate the scattering problem in terms of Dirichlet--Neumann Operators which are computed using the \gls{tfe} methodology. A novelty of our approach is the joint analyticity of solutions with respect to both geometry and frequency perturbations. The theory itself is then validated through our second goal which is the development of a joint HOPS/AWE algorithm. For this, we develop a special class of interfacial numerical
+algorithms that are well--suited to periodic diffraction problems. Our algorithm calculates the Reflectivity Map, $R$, which measures the response (reflected energy) of a
+periodically corrugated grating structure as a function of its illumination frequency. Moreover, we present a series of challenging and physically relevant numerical experiments to validate the scattering results expected by our algorithm.
+
+Forthcoming research will focus on extending the proof of analyticity to additional parameters relevant to the geometry of the structure, increasing the complexity of the structure through generalizing our results to any finite number of layered interfaces, implementing parallel programming techniques to handle multilayered surfaces, and reducing the computational cost of our HOPS/AWE algorithm. The analysis of multilayered periodic structures with numerous perturbation parameters will be an area of substantial interest for practitioners in the electromagnetic and engineering communities.
+
+Recommended citation: M. Kehoe. (2022). "Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media." <i>PhD Thesis</i>.
+
