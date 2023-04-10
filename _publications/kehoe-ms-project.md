@@ -15,11 +15,11 @@ The third program is variation of the Euler-Maclaurin Summation formula. This is
 While writing computer programs is enjoyable, it is important to point out an important proof made by G.H. Hardy in 1915. This is known as Hardy's Theorem and states that an infinite amount of zeroes lie inside the critical line where $\Re(s) = 1/2$. Considering we have already found $10^{13}$ zeroes, it is highly unlikely modern computers will disprove the hypothesis. We will likely need to change the approach by which $\zeta(s)$ is evaluated.'
 date: 2015-12-15
 venue: 'University of Michigan Deep Blue System'
-paperurl: 'http://matthewshawnkehoe.github.io/files/riemanntex.pdf'
+paperurl: 'http://matthewshawnkehoe.github.io/files/kehoe_ms_project.pdf'
 #citation: 'M Kehoe. (2022). &quot;Computational methods for the Riemann zeta function.&quot; <i>MS Project</i>.'
 ---
 
-[Download PDF here](http://matthewshawnkehoe.github.io/files/riemanntex.pdf)
+[Download PDF here](http://matthewshawnkehoe.github.io/files/kehoe_ms_project.pdf)
 
 Abstract: The purpose of this project is to explore different computational methods of the Riemann Zeta function. Modern analysis shows that a variety of different methods have been used to compute values for the Zeta function and its zeroes. I am looking to develop multiple programs that will find non-trivial zeroes and specific function values. All computer implementations have been done inside the Java programming language. One could easily transfer the programs written inside the appendix to the preferred language of choice. My main motivation for writing these programs is because I am interested in learning more about the mathematics behind the Zeta function and its zeroes.
 
@@ -33,5 +33,5 @@ The third program is variation of the Euler-Maclaurin Summation formula. This is
 
 While writing computer programs is enjoyable, it is important to point out an important proof made by G.H. Hardy in 1915. This is known as Hardy's Theorem and states that an infinite amount of zeroes lie inside the critical line where $\Re(s) = 1/2$. Considering we have already found $10^{13}$ zeroes, it is highly unlikely modern computers will disprove the hypothesis. We will likely need to change the approach by which $\zeta(s)$ is evaluated.
 
-Recommended citation: M. Kehoe. (2015). "Computational methods for the Riemann zeta function." MS Project.
+Recommended citation: M. Kehoe. (2015). "Computational methods for the Riemann zeta function." MS Project. http://matthewshawnkehoe.github.io/files/kehoe_ms_project.pdf
 
