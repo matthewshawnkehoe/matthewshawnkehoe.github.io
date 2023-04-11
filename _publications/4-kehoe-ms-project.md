@@ -6,7 +6,7 @@ excerpt: 'This project focuses on exploring different computational methods of t
 date: 2015-12-15
 venue: 'University of Michigan Deep Blue System'
 paperurl: 'http://matthewshawnkehoe.github.io/files/kehoe_ms_project.pdf'
-#citation: 'M Kehoe. (2022). &quot;Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media.&quot; <i>PhD Thesis</i>.'
+#citation: 'M Kehoe (2015). &quot;Computational methods for the Riemann zeta function.&quot; <i>MS Project</i>.'
 ---
 
 [Download PDF here](http://matthewshawnkehoe.github.io/files/kehoe_ms_project.pdf)
