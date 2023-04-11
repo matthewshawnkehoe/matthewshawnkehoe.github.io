@@ -1,4 +1,5 @@
 ---
+Computational methods for the Riemann zeta function
 title: "Computational methods for the Riemann zeta function"
 collection: publications
 permalink: /publication/4-kehoe-ms-project
