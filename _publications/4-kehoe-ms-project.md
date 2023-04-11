@@ -1,7 +1,7 @@
 ---
-title: "Joint Geometry/Frequency Analyticity of Fields Scattered by Periodic Layered Media"
+title: "Computational methods for the Riemann zeta function"
 collection: publications
-permalink: /publication/2-hops-awe-analyticity
+permalink: /publication/4-kehoe-ms-project
 excerpt: 'The scattering of linear waves by periodic structures is a crucial phenomena in many branches of applied physics and engineering. In this paper we establish rigorous analytic results necessary for the proper numerical analysis of a class of High--Order Perturbation of Surfaces/Asymptotic Waveform Evaluation (HOPS/AWE) methods for
 #numerically simulating scattering returns from periodic diffraction gratings. More specifically, we prove a theorem on existence and uniqueness of solutions to a system of partial differential equations which model the interaction of linear waves with a periodic two--layer structure. Furthermore, we establish joint analyticity of these solutions with respect to both geometry and frequency perturbations. This result provides hypotheses under which a rigorous numerical analysis could be conducted on our recently developed HOPS/AWE algorithm.'
 date: 2023-06-01
