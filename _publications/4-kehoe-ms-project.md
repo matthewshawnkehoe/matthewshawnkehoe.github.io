@@ -1,9 +1,9 @@
 ---
-title: "Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media"
+title: "Computational methods for the Riemann zeta function"
 collection: publications
 permalink: /publication/4-kehoe-ms-project
 excerpt: 'Testing...'
-date: 2022-07-22
+date: 2015-12-15
 venue: 'UIC Electronic Thesis and Dissertation (ETD) System'
 paperurl: 'http://matthewshawnkehoe.github.io/files/kehoe_thesis.pdf'
 #citation: 'M Kehoe. (2022). &quot;Joint Analyticity of the Transformed Field  and Dirichlet--Neumann Operator in Periodic Media.&quot; <i>PhD Thesis</i>.'
