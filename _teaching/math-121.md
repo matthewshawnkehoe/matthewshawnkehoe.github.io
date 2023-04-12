@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/math-121
 venue: "UIC, Department of Mathematics, Statistics, and Computer Science (MSCS)"
-date: 2018 -- 2021
+date: 2018
 location: "Chicago, Illinois"
 ---
 

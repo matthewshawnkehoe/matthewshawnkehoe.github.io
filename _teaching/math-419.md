@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/math-419
 venue: "UIC, Department of Mathematics, Statistics, and Computer Science (MSCS)"
-date: 2018 -- 2021
+date: 2020
 location: "Chicago, Illinois"
 ---
 
