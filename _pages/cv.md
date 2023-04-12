@@ -14,7 +14,7 @@ A PDF version of my CV is available [here](https://matthewshawnkehoe.github.io/f
 Education
 ======
 * B.A. in Economics, Oakland University, 2010
-* M.S. in Computational Mathematics, University of Michigan-Dearborn, 2015
+* M.S. in Computational Mathematics, University of Michigan at Dearborn, 2015
 * Ph.D. in Applied Mathematics, University of Illinois at Chicago, 2022
 
 Work experience
