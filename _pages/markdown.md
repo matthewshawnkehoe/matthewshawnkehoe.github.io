@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /textbook-recommendations/
 title: "TextBook Recommendations"
 author_profile: true
 redirect_from: 
