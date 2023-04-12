@@ -32,7 +32,7 @@ author_profile: true
 24. [Complex Analysis](https://www.amazon.com/Complex-Analysis-Lars-Ahlfors/dp/0070006571) by Lars Ahlfors
 25. [Elementary Fluid Dynamics](https://www.amazon.com/Elementary-Dynamics-Applied-Mathematics-Computing/dp/0198596790) by D. J. Acheson
 26. [Partial Differential Equations](https://www.amazon.com/gp/product/0821849743/ref=dbs_a_def_rwt_bibl_vppi_i0) by Lawrence C. Evans
-27, [Elliptic Partial Differential Equations](https://www.amazon.com/Elliptic-Partial-Differential-Equations-Courant/dp/0821853139) by Qing Han and Fanghua Lin
+27. [Elliptic Partial Differential Equations](https://www.amazon.com/Elliptic-Partial-Differential-Equations-Courant/dp/0821853139) by Qing Han and Fanghua Lin
 28. [Elliptic Partial Differential Equations of Second Order](https://www.amazon.com/Elliptic-Partial-Differential-Equations-Second/dp/3540411607) by David Gilbarg and Neil S. Trudinger
 29. [Functional Analysis](https://www.amazon.com/Functional-Analysis-Peter-D-Lax/dp/0471556041) by Peter D. Lax
 30. [Functional Analysis, Sobolev Spaces and Partial Differential Equations](https://www.amazon.com/Functional-Analysis-Differential-Equations-Universitext/dp/0387709134) by Haim Brezis
