@@ -21,8 +21,8 @@ Work experience
 ======
 * 2022 -- Present: Research Scientist, Michigan Tech Research Institute (MTRI)
 * 2018 -- 2022: Graduate Research and Teaching Assistant, University of Illinois at Chicago (UIC)
-* Summer 2020: NSF Mathematical Sciences Graduate Intern, Cold Regions Research and Engineering Laboratory (CRREL)
-* Summer 2019: NSF Mathematical Sciences Graduate Intern, Argonne National Laboratory (ANL)
+* Summer 2020: NSF Mathematical Sciences Intern, Cold Regions Research and Engineering Laboratory (CRREL)
+* Summer 2019: NSF Mathematical Sciences Intern, Argonne National Laboratory (ANL)
 * 2010 -- 2017: Software Consultant and Programmer, Workforce Software
 * 2009 -- 2010: Web Developer, Oakland University
 * 2009 -- 2010: Strategic Research Interns, SPEC Associates
