@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Computational Electromagnetics"
+excerpt: "A High–Order Perturbation of Surfaces/Asymptotic Waveform Evaluation (HOPS/AWE) algorithm for Grating Scattering Problems<br/><img src='/images/refl_map.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The scattering of electromagnetic radiation by a layered periodic diffraction grating is a central model in engineering and the sciences. The numerical simulation of this experiment has been widely explored in the literature and we advocate for a novel interfacial method which is perturbative in nature. This repository contains a High–Order Perturbation of Surfaces/Asymptotic Waveform Evaluation (HOPS/AWE) algorithm which is well–suited for PDEs posed on piecewise homogeneous domains. [Github Repository](https://github.com/matthewshawnkehoe/HOPS-AWE-Grating-Scattering)
