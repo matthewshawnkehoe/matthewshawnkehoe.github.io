@@ -25,7 +25,7 @@ Work experience
 * Summer 2019: NSF Mathematical Sciences Intern, Argonne National Laboratory (ANL)
 * 2010 -- 2017: Software Consultant and Programmer, Workforce Software
 * 2009 -- 2010: Web Developer, Oakland University
-* 2009 -- 2010: Strategic Research Interns, SPEC Associates
+* 2009 -- 2010: Strategic Research Intern, SPEC Associates
 * 2009: Helpdesk Administrator and Information Technology Intern, J & B Medical Supply
 * 2003 -- 2008: General Construction, Tri-Pups Inc.
   
@@ -63,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2013 -- Present: Mathematics tutor
