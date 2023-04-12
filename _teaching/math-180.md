@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/math-180
 venue: "UIC, Department of Mathematics, Statistics, and Computer Science (MSCS)"
-date: 2021
+date: 2021-01-10
 location: "Chicago, Illinois"
 ---
 
