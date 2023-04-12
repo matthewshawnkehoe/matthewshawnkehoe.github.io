@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version of my CV is available here.
+A PDF version of my CV is available [here](https://matthewshawnkehoe.github.io/files/kehoe_cv.pdf).
 
 Education
 ======
