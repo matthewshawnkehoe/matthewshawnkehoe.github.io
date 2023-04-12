@@ -37,7 +37,7 @@ author_profile: true
 29. [Functional Analysis](https://www.amazon.com/Functional-Analysis-Peter-D-Lax/dp/0471556041) by Peter D. Lax
 30. [Functional Analysis, Sobolev Spaces and Partial Differential Equations](https://www.amazon.com/Functional-Analysis-Differential-Equations-Universitext/dp/0387709134) by Haim Brezis
 
-## Related Subsjects
+## Related Subjects
 
 1. [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](http://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/ref=sr_1_1?s=books&ie=UTF8&qid=1460313724&sr=1-1&keywords=The+Cuckoo%27s+Egg) by Cliff Stoll
 2. [Smithsonian Handbook: Stars and Planets](https://www.amazon.com/Smithsonian-Handbooks-Stars-Planets/dp/0789489880/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1460313755&sr=1-1-spell&keywords=Stars+and+Planetrs+Smithsonian) by Ian Ridpath
