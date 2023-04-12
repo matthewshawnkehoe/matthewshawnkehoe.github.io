@@ -19,24 +19,29 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 -- Present: Research Scientist, Michigan Tech Research Institute (MTRI)
+* 2018 -- 2022: Graduate Research and Teaching Assistant, University of Illinois at Chicago (UIC)
+* Summer 2020: NSF Mathematical Sciences Graduate Intern, Cold Regions Research and Engineering Laboratory (CRREL)
+* Summer 2019: NSF Mathematical Sciences Graduate Intern, Argonne National Laboratory (ANL)
+* 2010 -- 2017: Software Consultant and Programmer, Workforce Software
+* 2009 -- 2010: Web Developer, Oakland University
+* 2009 -- 2010: Strategic Research Interns, SPEC Associates
+* 2009: Helpdesk Administrator and Information Technology Intern, J & B Medical Supply
+* 2003 -- 2008: General Construction, Tri-Pups Inc.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational Mathematics
+  * Spectral Element Methods
+  * Root-Finding Algorithms
+  * High Performance Computing
+  * Computational Electromagnetics
+  * Computational Number Theory
+  * Matlab, Julia, Python
+* Numerical Analysis
+* Partial Differential Equations
+* Acoustics and Electromagnetics
+* Machine Learning
 
 Publications
 ======
