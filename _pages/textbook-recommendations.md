@@ -1,6 +1,6 @@
 ---
 permalink: /textbook-recommendations/
-title: "TextBook Recommendations"
+title: "Textbook Recommendations"
 author_profile: true
 ---
 
