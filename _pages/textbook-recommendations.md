@@ -37,7 +37,7 @@ author_profile: true
 29. [Functional Analysis](https://www.amazon.com/Functional-Analysis-Peter-D-Lax/dp/0471556041) by Peter D. Lax
 30. [Functional Analysis, Sobolev Spaces and Partial Differential Equations](https://www.amazon.com/Functional-Analysis-Differential-Equations-Universitext/dp/0387709134) by Haim Brezis
 
-Astronomy and Physics
+## Astronomy and Physics
 1. [Introduction to Electrodynamics](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419?&linkCode=sl1&tag=abakcus-20&linkId=0b2ded00747821a20d283f7f906f5120&language=en_US&ref_=as_li_ss_tl) by David J. Griffiths
 2. [Introduction to Quantum Mechanics](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/ref=sr_1_1?crid=YYI0MHUF339G&keywords=Introduction+to+Quantum+Mechanics&qid=1681788312&s=books&sprefix=introduction+to+quantum+mechanics%2Cstripbooks%2C448&sr=1-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) by David J. Griffiths
 3. [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-CLASSICAL-MECHANICS-Hardcover/dp/B00SLS9J5U?&linkCode=sl1&tag=abakcus-20&linkId=c271059fc6d25e3d2dfeac3e3044c1a7&language=en_US&ref_=as_li_ss_tl) by John R. Taylor
@@ -48,14 +48,14 @@ Astronomy and Physics
 8. [Statistical Physics of Particles](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428?&linkCode=sl1&tag=abakcus-20&linkId=8dcc8e1107a8e1b2b53a091f2430a80b&language=en_US&ref_=as_li_ss_tl) by Mehran Kardar
 9. [Thermal Physics](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0192895559?&linkCode=sl1&tag=abakcus-20&linkId=0870f14a026ff09905cb38df55db342e&language=en_US&ref_=as_li_ss_tl) by Daniel V. Schroeder
 10. [Cosmic Queries: StarTalk's Guide to Who We Are, How We Got Here, and Where We're Going](https://www.amazon.com/Cosmic-Queries-StarTalks-Guide-Where/dp/1426221770) by Neil Degrasse Tyson
+11. [Smithsonian Handbook: Stars and Planets](https://www.amazon.com/Smithsonian-Handbooks-Stars-Planets/dp/0789489880/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1460313755&sr=1-1-spell&keywords=Stars+and+Planetrs+Smithsonian) by Ian Ridpath
+12. [Universe: The Definitive Visual Guide](https://www.amazon.com/Universe-Robert-Dinwiddie/dp/0756698413) by Smithsonian
 
 ## Related Subjects
 
 1. [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](http://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/ref=sr_1_1?s=books&ie=UTF8&qid=1460313724&sr=1-1&keywords=The+Cuckoo%27s+Egg) by Cliff Stoll
-2. [Smithsonian Handbook: Stars and Planets](https://www.amazon.com/Smithsonian-Handbooks-Stars-Planets/dp/0789489880/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1460313755&sr=1-1-spell&keywords=Stars+and+Planetrs+Smithsonian) by Ian Ridpath
-3. [Universe: The Definitive Visual Guide](https://www.amazon.com/Universe-Robert-Dinwiddie/dp/0756698413) by Smithsonian
-4. [Introduction to High Performance Computing for Scientists and Engineers](https://www.amazon.com/Introduction-Performance-Computing-Scientists-Computational/dp/143981192X) by Georg Hager and Gerhard Wellein
-5. [Scientific Parallel Computing](https://www.amazon.com/Scientific-Parallel-Computing-Ridgway-Scott/dp/069111935X) by L. Ridgway Scott
-6. [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X) by Michael Sipser
-7. [Computational Complexity: A Modern Approach](https://www.amazon.com/Computational-Complexity-Approach-Sanjeev-Arora/dp/0521424267) by Sanjeev Arora and Boaz Barak
-8. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
+2. [Introduction to High Performance Computing for Scientists and Engineers](https://www.amazon.com/Introduction-Performance-Computing-Scientists-Computational/dp/143981192X) by Georg Hager and Gerhard Wellein
+3. [Scientific Parallel Computing](https://www.amazon.com/Scientific-Parallel-Computing-Ridgway-Scott/dp/069111935X) by L. Ridgway Scott
+4. [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X) by Michael Sipser
+5. [Computational Complexity: A Modern Approach](https://www.amazon.com/Computational-Complexity-Approach-Sanjeev-Arora/dp/0521424267) by Sanjeev Arora and Boaz Barak
+6. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition) by François Chollet
