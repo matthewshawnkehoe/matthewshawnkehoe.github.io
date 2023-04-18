@@ -37,6 +37,18 @@ author_profile: true
 29. [Functional Analysis](https://www.amazon.com/Functional-Analysis-Peter-D-Lax/dp/0471556041) by Peter D. Lax
 30. [Functional Analysis, Sobolev Spaces and Partial Differential Equations](https://www.amazon.com/Functional-Analysis-Differential-Equations-Universitext/dp/0387709134) by Haim Brezis
 
+Astronomy and Physics
+1. [Introduction to Electrodynamics](https://www.amazon.com/Introduction-Electrodynamics-David-J-Griffiths/dp/1108420419?&linkCode=sl1&tag=abakcus-20&linkId=0b2ded00747821a20d283f7f906f5120&language=en_US&ref_=as_li_ss_tl) by David J. Griffiths
+2. [Introduction to Quantum Mechanics](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632/ref=sr_1_1?crid=YYI0MHUF339G&keywords=Introduction+to+Quantum+Mechanics&qid=1681788312&s=books&sprefix=introduction+to+quantum+mechanics%2Cstripbooks%2C448&sr=1-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840) by David J. Griffiths
+3. [Classical Mechanics](https://www.amazon.com/Classical-Mechanics-CLASSICAL-MECHANICS-Hardcover/dp/B00SLS9J5U?&linkCode=sl1&tag=abakcus-20&linkId=c271059fc6d25e3d2dfeac3e3044c1a7&language=en_US&ref_=as_li_ss_tl) by John R. Taylor
+4. [Introduction to Classical Mechanics](https://www.amazon.com/Introduction-Classical-Mechanics-Problems-Solutions/dp/0521876222?&linkCode=sl1&tag=abakcus-20&linkId=9f6b888fb7de2c24f0f276c22cedcd18&language=en_US&ref_=as_li_ss_tl) by David Morin
+5. [Modern Quantum Mechanics](https://www.amazon.com/Modern-Quantum-Mechanics-Revised-Sakurai/dp/0201539292?&linkCode=sl1&tag=abakcus-20&linkId=807ea7ddc8f2c04377058e81c940c072&language=en_US&ref_=as_li_ss_tl) by J.J. Sakurai
+6. [Numerical Methods for Physics](https://www.amazon.com/Numerical-Methods-Physics-Python-Alejandro/dp/1548865494?&linkCode=sl1&tag=abakcus-20&linkId=9c37cc06115e9bd42f87232dfd4e183c&language=en_US&ref_=as_li_ss_tl) by Alejandro Garcia
+7. [Optics](https://www.amazon.com/Optics-5th-Eugene-Hecht/dp/0133977226?&linkCode=sl1&tag=abakcus-20&linkId=f5458e53a04bfc6faa4496e12688d1a7&language=en_US&ref_=as_li_ss_tl) by Eugene Hecht
+8. [Statistical Physics of Particles](https://www.amazon.com/Statistical-Physics-Particles-Mehran-Kardar/dp/0521873428?&linkCode=sl1&tag=abakcus-20&linkId=8dcc8e1107a8e1b2b53a091f2430a80b&language=en_US&ref_=as_li_ss_tl) by Mehran Kardar
+9. [Thermal Physics](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0192895559?&linkCode=sl1&tag=abakcus-20&linkId=0870f14a026ff09905cb38df55db342e&language=en_US&ref_=as_li_ss_tl) by Daniel V. Schroeder
+10. [Cosmic Queries: StarTalk's Guide to Who We Are, How We Got Here, and Where We're Going](https://www.amazon.com/Cosmic-Queries-StarTalks-Guide-Where/dp/1426221770) by Neil Degrasse Tyson
+
 ## Related Subjects
 
 1. [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](http://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/ref=sr_1_1?s=books&ie=UTF8&qid=1460313724&sr=1-1&keywords=The+Cuckoo%27s+Egg) by Cliff Stoll
