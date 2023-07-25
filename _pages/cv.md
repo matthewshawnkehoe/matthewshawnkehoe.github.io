@@ -43,6 +43,7 @@ Skills
 * Partial Differential Equations
 * Acoustics and Electromagnetics
 * Machine Learning
+* Statistical Analysis
 
 Publications
 ======
