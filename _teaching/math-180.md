@@ -8,4 +8,4 @@ date: 2021-01-10
 location: "Chicago, Illinois"
 ---
 
-Lead recitation sessions and assisted students with conceptual information in calculus. My student reviews are [here](http://homepages.math.uic.edu/~mkehoe5/teaching.html).
+Led recitation sessions and assisted students with conceptual information in calculus. My student reviews are [here](http://homepages.math.uic.edu/~mkehoe5/teaching.html).

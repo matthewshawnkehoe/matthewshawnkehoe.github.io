@@ -8,4 +8,4 @@ date: 2020-01-10
 location: "Chicago, Illinois"
 ---
 
-Lead recitation sessions and assisted students with concepts in mathematical modeling and applications to biology.
+Led recitation sessions and assisted students with concepts in mathematical modeling and applications to biology.

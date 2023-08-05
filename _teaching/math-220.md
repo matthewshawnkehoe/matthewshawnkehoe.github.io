@@ -8,4 +8,4 @@ date: 2019-01-10
 location: "Chicago, Illinois"
 ---
 
-Lead recitation sessions and assisted students with techniques and applications of ordinary and partial differential equations.
+Led recitation sessions and assisted students with techniques and applications of ordinary and partial differential equations.

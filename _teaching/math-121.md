@@ -8,4 +8,4 @@ date: 2018-01-10
 location: "Chicago, Illinois"
 ---
 
-Lead recitation sessions and assisted students with rules defining the natural logarithm and exponential function.
+Led recitation sessions and assisted students with rules defining the natural logarithm and exponential function.
