@@ -3,7 +3,7 @@ title: "A Stable High-Order Perturbation of Surfaces/Asymptotic Waveform Evaluat
 collection: publications
 permalink: /publication/1-hops-awe-computation
 excerpt: 'The scattering of electromagnetic radiation by a layered periodic diffraction grating is an important model in engineering and the sciences. The numerical simulation of this experiment has been widely explored in the literature and we advocate for a novel interfacial method which is perturbative in nature. More specifically, we extend a recently developed High--Order Perturbation of Surfaces/Asymptotic Waveform Evaluation (HOPS/AWE) algorithm to utilize a stabilized numerical scheme which also suggests a rigorous convergence result. An implementation of this algorithm is described, validated, and utilized in a sequence of challenging and physically relevant numerical experiments.'
-date: 2023-06-01
+date: 2024-05-24
 venue: 'Journal of Scientific Computing'
 paperurl: 'https://link.springer.com/article/10.1007/s10915-024-02566-6'
 #citation: 'M. Kehoe and D. Nicholls (2023). &quot;A Stable High-Order Perturbation of Surfaces/Asymptotic Waveform Evaluation Method for the Numerical Solution of Grating Scattering Problems.&quot;'
