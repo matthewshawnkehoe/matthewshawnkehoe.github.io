@@ -1,6 +1,6 @@
 ---
 title: "Physics-Informed Machine Learning (PINNs)"
-excerpt: "A new technique to solve second order elliptic eigenvalue problems. 
+excerpt: "An alternative technique to FDM/FEM/SEM for solving partial differential equations numerically. 
 <br/>
 <br/>
 <img src='/images/pinns.png'>"
