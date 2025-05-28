@@ -104,9 +104,11 @@ redirect_from:
 8. [The Craft of Research](https://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669) by Booth, Colomb, and Williams
 9. [Mining of Massive Datasets](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230) by Leskovec, Rajaraman, and Ullman
 10. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576) by Hastie, Tibshirani, and Friedman
-11. [Build a Large Language Model From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
-12. [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8) by Louie Peters and Louis-françois Bouchard
-13. [Mathematics of Machine Learning: Master Linear Algebra, Calculus, and Probability for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870) by Tivadar Danka 2
+
+## LLMs and Mathematics of Machine Learning
+1. [Build a Large Language Model From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+2. [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8) by Louie Peters and Louis-françois Bouchard
+3. [Mathematics of Machine Learning: Master Linear Algebra, Calculus, and Probability for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870) by Tivadar Danka 2
 
 ## Related Subjects
 1. [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](http://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/ref=sr_1_1?s=books&ie=UTF8&qid=1460313724&sr=1-1&keywords=The+Cuckoo%27s+Egg) by Cliff Stoll
