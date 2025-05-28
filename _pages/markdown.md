@@ -39,11 +39,6 @@ redirect_from:
 28. [Measure, Integration & Real Analysis](https://measure.axler.net/) by Sheldon Axler
 29. [Linear Alebra Done Right](https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/ref=sr_1_1?crid=1XTALQBH1EG1U&keywords=Linear+Algebra+done+right&qid=1700942687&s=books&sprefix=linear+algebra+done+right%2Cstripbooks%2C119&sr=1-1) by Sheldon Axler
 30. [Applied Linear Algebra](https://link.springer.com/book/10.1007/978-3-319-91041-3) by Peter J. Olver and Chehrzad Shakiban
-31. [Build a Large Language Model From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
-32. [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8) by Louie Peters and Louis-françois Bouchard
-33. [Mathematics of Machine Learning: Master Linear Algebra, Calculus, and Probability for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870) by Tivadar Danka
-
-
 
 ## Computational Mathematics
 1. [An Introduction to Numerical Methods and Analysis](http://www.amazon.com/Introduction-Numerical-Methods-Analysis/dp/1118367596/ref=sr_1_1?s=books&ie=UTF8&qid=1460313320&sr=1-1&keywords=Introduction+to+Numerical+Methods+and+Analysis+epperson) by James Epperson
@@ -75,7 +70,6 @@ redirect_from:
 11. [Smithsonian Handbook: Stars and Planets](https://www.amazon.com/Smithsonian-Handbooks-Stars-Planets/dp/0789489880/ref=sr_1_sc_1?s=books&ie=UTF8&qid=1460313755&sr=1-1-spell&keywords=Stars+and+Planetrs+Smithsonian) by Ian Ridpath
 12. [Universe: The Definitive Visual Guide](https://www.amazon.com/Universe-Robert-Dinwiddie/dp/0756698413) by Smithsonian
 
-
 ## Statistics 
 1. [Statistical Inference](https://www.amazon.com/Statistical-Inference-George-Casella/dp/0534243126) by George Casella and  Roger L. Berger 
 2. [Mathematical Statistics](https://www.amazon.com/Mathematical-Statistics-Basic-Selected-Topics/dp/0132306379/) by Bickel and Berger 
@@ -84,7 +78,6 @@ redirect_from:
 5. [Applied Linear Statistical Models](https://www.amazon.com/Applied-Linear-Statistical-Models-Michael/dp/007310874X) by Kutner, Nachtsheim, Neter, and Li  
 6. [Time Series Analysis and Its Applications](https://www.amazon.com/Time-Analysis-Its-Applications-Statistics/dp/3319524518) by Shumway and Stoffer 
 7. [Computational Statistics](https://www.amazon.com/Computational-Statistics-Geof-H-Givens/dp/0470533315) by Givens and Hoeting
-
 
 ## Fluid Mechanics
 1. [Elementary Fluid Dynamics](https://www.amazon.com/Elementary-Dynamics-Applied-Mathematics-Computing/dp/0198596790) by D. J. Acheson
@@ -95,7 +88,6 @@ redirect_from:
 6. [Turbulent Flows](https://www.amazon.com/Turbulent-Flows-Stephen-B-Pope/dp/0521598869) by Stephen B. Pope
 7. [Elements of Gasdynamics](https://www.amazon.com/Elements-Gasdynamics-H-W-Liepmann/dp/0486419630) by Liepmann and Roshko 
 8. [Transport Phenomena](https://www.amazon.com/Transport-Phenomena-R-Byron-Bird/dp/047107392X) by Bird, Stewart, and Lightfoot
-
 
 ## Data Science and Machine Learning
 1. [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/1492041130) by Joel Grus
@@ -108,6 +100,11 @@ redirect_from:
 8. [The Craft of Research](https://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/0226065669) by Booth, Colomb, and Williams
 9. [Mining of Massive Datasets](https://www.amazon.com/Mining-Massive-Datasets-Jure-Leskovec/dp/1107077230) by Leskovec, Rajaraman, and Ullman
 10. [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576) by Hastie, Tibshirani, and Friedman
+
+## LLMs and Mathematics of Machine Learning
+1. [Build a Large Language Model From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+2. [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8) by Louie Peters and Louis-françois Bouchard
+3. [Mathematics of Machine Learning: Master Linear Algebra, Calculus, and Probability for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870) by Tivadar Danka
 
 ## Related Subjects
 1. [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](http://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/ref=sr_1_1?s=books&ie=UTF8&qid=1460313724&sr=1-1&keywords=The+Cuckoo%27s+Egg) by Cliff Stoll
@@ -122,9 +119,4 @@ redirect_from:
 4. [Randall J. LeVeque](https://faculty.washington.edu/rjl/booksnotes.html)
 5. [Sheldon Axler](https://www.axler.net/books.html)
 6. [The Math Sorceror](https://www.youtube.com/@TheMathSorcerer)
-
-## LLMs and Mathematics of Machine Learning
-1. [Build a Large Language Model From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
-2. [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8) by Louie Peters and Louis-françois Bouchard
-3. [Mathematics of Machine Learning: Master Linear Algebra, Calculus, and Probability for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870) by Tivadar Danka
 
