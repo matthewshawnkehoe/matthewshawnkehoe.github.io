@@ -39,6 +39,10 @@ redirect_from:
 28. [Measure, Integration & Real Analysis](https://measure.axler.net/) by Sheldon Axler
 29. [Linear Alebra Done Right](https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics/dp/3319110799/ref=sr_1_1?crid=1XTALQBH1EG1U&keywords=Linear+Algebra+done+right&qid=1700942687&s=books&sprefix=linear+algebra+done+right%2Cstripbooks%2C119&sr=1-1) by Sheldon Axler
 30. [Applied Linear Algebra](https://link.springer.com/book/10.1007/978-3-319-91041-3) by Peter J. Olver and Chehrzad Shakiban
+31. [Build a Large Language Model From Scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch) by Sebastian Raschka
+32. [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8) by Louie Peters and Louis-françois Bouchard
+33. [Mathematics of Machine Learning: Master Linear Algebra, Calculus, and Probability for Machine Learning](https://www.amazon.com/Mathematics-Machine-Learning-Calculus-Probability/dp/1837027870) by Tivadar Danka
+
 
 
 ## Computational Mathematics
