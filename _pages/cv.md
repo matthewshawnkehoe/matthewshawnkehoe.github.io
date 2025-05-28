@@ -19,7 +19,8 @@ Education
 
 Work experience
 ======
-* 2022 -- Present: Research Scientist, Michigan Tech Research Institute (MTRI)
+* 2025 -- Present: Senior Data Scientist, Elder Research
+* 2022 -- 2025: Research Scientist, Michigan Tech Research Institute (MTRI)
 * 2018 -- 2022: Graduate Research and Teaching Assistant, University of Illinois at Chicago (UIC)
 * Summer 2020: NSF Mathematical Sciences Intern, Cold Regions Research and Engineering Laboratory (CRREL)
 * Summer 2019: NSF Mathematical Sciences Intern, Argonne National Laboratory (ANL)
